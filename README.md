@@ -1,9 +1,3 @@
----
-title: "PP1 - Mapping and Logic"
-author: "Your Name Here"
-duration: 90 minutes
----
-
 # PP1
 
 ## Goal
