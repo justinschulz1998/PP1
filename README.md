@@ -27,9 +27,13 @@ To fork this repository:
 
    ![Fork-Button](./assets/fork.png)
 
+---
+
 4. Scroll down in the dialog and click `Create fork`:
 
    ![Create fork-Button](./assets/create_fork.png)
+
+---
 
 ### Step 2: Modify and Commit
 A **commit** is a saved snapshot of your work.
@@ -39,10 +43,14 @@ A **commit** is a saved snapshot of your work.
 
    ![Pencil-Button](./assets/pencil.png)
 
+---
+
 3. Use the built-in editor to make changes.
 4. Click `Commit changes` when done:
 
    ![Commit-Button](./assets/commit_button.png)
+
+---
 
 Add a meaningful comment about what you did and how long it took.
 
