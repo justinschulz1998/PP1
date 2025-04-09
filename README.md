@@ -140,7 +140,7 @@ Create a truth table for a **2-bit adder** without carry-in. What are the possib
 | 1 | 1 | 0 | 0     | 1    | 1      |   0   |
 | 1 | 1 | 0 | 1     | 1    | 0      |   1   |
 | 1 | 1 | 1 | 0     | 0    | 1      |   1   |
-| 1 | 1 | 1 | 1     | 1    | 1      |   1   |
+| 1 | 1 | 1 | 1     | 1    | 0      |   1   |
 
 Mögliche Eingänge sind ohne Carry In nur A1 / A2 und B1 / B2. Ausgänge sind Carry out und Summenbit Bit 0 /Bit 1.
 
