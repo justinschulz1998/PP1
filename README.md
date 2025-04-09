@@ -95,7 +95,9 @@ Explain how to calculate the number of bits required:
 2. Stelle 2^1
 3.Stelle 2^2
 4.Stelle 2^3
-n.Stelle 2^n-1
+n.Stelle 2^n-1 
+Es werden 4 Bits benötigt um diese Zahlen darzustellen. Mit 4 Bits kann Maximal die Zahl 2^4 - 1 dargestellt werden.
+Es werden n Bits benötigt um diese Zahlen darzustellen. Mit n Bits kann Maximal die Zahl 2^n - 1 dargestellt werden
 </details>
 
 ---
