@@ -157,9 +157,9 @@ Use the [K-Map method](https://github.com/STEMgraph/4b957490-badf-4264-b9f2-1b5a
 
 Q<sub>0</sub> = A0 XOR B0
 
-Q<sub>1</sub> = (A0*B0)+ (not B1 * A1*(B0+A0))+(B1* not A1 * not A0)
+Q<sub>1</sub> = (A0*B0)+ (not B1 * A1 * (B0+A0))+(B1* not A1 * not A0)
 
-C<sub>out</sub> = (B1 *A1) + (A0*B0*(A1+B1))
+C<sub>out</sub> = (B1 * A1) + (A0 * B0 *(A1+B1))
 
 </details>
 
