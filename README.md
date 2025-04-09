@@ -142,7 +142,7 @@ Create a truth table for a **2-bit adder** without carry-in. What are the possib
 | 1 | 1 | 1 | 0     | 0    | 1      |   1   |
 | 1 | 1 | 1 | 1     | 1    | 1      |   1   |
 
-Mögliche Eingänge sind ohne Carry In nur A und B
+Mögliche Eingänge sind ohne Carry In nur A1 / A2 und B1 / B2. Ausgänge sind Carry out und Summenbit Bit 0 /Bit 1.
 
 ### Task 3: Boolean Equations via Karnaugh Maps
 Use the [K-Map method](https://github.com/STEMgraph/4b957490-badf-4264-b9f2-1b5aa370f36e) to derive Boolean equations for each output bit in your 2-bit adder.
